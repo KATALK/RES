@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d0a99a2-b37b-4330-8dfb-3fdfa476ced2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../08/Jdbc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/Jdbc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/JpaArticleDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/JpaArticleDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/JpaEntityDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/JpaEntityDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/JpaManyToManyDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/JpaManyToManyDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/JpaOneToManyDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/JpaOneToManyDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/JpaOneToOneDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/JpaOneToOneDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08/MybatisCURD Page/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../08/MybatisCURD Page/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Swagger/src/main/java/com/example/demo/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Swagger/src/main/java/com/example/demo/controller/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10/JwtDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../10/JwtDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10/RbacDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../10/RbacDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10/ShiroJpaMysql/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../10/ShiroJpaMysql/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11/CacheDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../11/CacheDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11/JpaArticleRedisDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../11/JpaArticleRedisDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11/Redis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../11/Redis/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11/RedisCURD/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../11/RedisCURD/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ValidationException</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="G:\apache-maven-3.6.1\conf\settingsforalibaba.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="456" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectId" id="1Z1TWOywvEjCipIdWkenHrxthWz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554683313067" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestTemplateDemo" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.demo.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.exception" />
+      <recent name="com.example.demo.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\2018\java\book\book code\RESTful\src\main\java\com\example\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ResTfulApplication">
+    <configuration name="ResTfulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.ResTfulApplication" />
+      <module name="RESTful" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restTemplateGetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RESTful" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controller.restTemplateGetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restTemplateGetTest.restTemplateGetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RESTful" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controller.restTemplateGetTest" />
+      <option name="METHOD_NAME" value="restTemplateGetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResTfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RESTful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ResTfulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ResTfulApplication" />
+        <item itemvalue="JUnit.restTemplateGetTest.restTemplateGetTest" />
+        <item itemvalue="JUnit.restTemplateGetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0a99a2-b37b-4330-8dfb-3fdfa476ced2" name="Default Changelist" comment="" />
+      <created>1553389469635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553389469635</updated>
+      <workItem from="1584005632874" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="restTemplateGetTest_restTemplateGetTest - 2019.04.07 at 22h 55m 30s.xml">
+      <configuration name="restTemplateGetTest.restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="restTemplateGetTest - 2019.04.07 at 22h 56m 05s.xml">
+      <configuration name="restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="restTemplateGetTest - 2019.04.07 at 22h 56m 14s.xml">
+      <configuration name="restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="restTemplateGetTest_restTemplateGetTest - 2019.05.22 at 11h 20m 08s.xml">
+      <configuration name="restTemplateGetTest.restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="restTemplateGetTest_restTemplateGetTest - 2019.05.22 at 11h 20m 47s.xml">
+      <configuration name="restTemplateGetTest.restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="restTemplateGetTest_restTemplateGetTest - 2019.05.22 at 11h 21m 31s.xml">
+      <configuration name="restTemplateGetTest.restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="restTemplateGetTest_restTemplateGetTest - 2019.05.22 at 11h 22m 34s.xml">
+      <configuration name="restTemplateGetTest.restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="restTemplateGetTest_restTemplateGetTest - 2019.05.22 at 11h 46m 49s.xml">
+      <configuration name="restTemplateGetTest.restTemplateGetTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="275" key="FileChooserDialogImpl" timestamp="1584005782276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584005782276" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
